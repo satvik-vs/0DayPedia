@@ -58,7 +58,7 @@ function Home() {
       <div className="text-center space-y-8 max-w-4xl mx-auto">
         <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 tracking-tight px-4">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-emerald-400 to-teal-500 animate-gradient">
-            The Future of Cybersecurity
+            The Future of Cybersecurity ✨
           </span>
           <span className="inline-block ml-1 text-green-500 animate-blink">{cursorVisible ? '_' : ''}</span>
         </h1>
